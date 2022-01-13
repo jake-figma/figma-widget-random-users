@@ -1,0 +1,10 @@
+{
+  "name": "Random Users",
+  "id": "jake-albaugh-random-users",
+  "api": "1.0.0",
+  "editorType": ["figjam"],
+  "permissions": ["activeusers", "currentuser"],
+  "containsWidget": true,
+  "main": "dist/code.js",
+  "widgetApi": "1.0.0"
+}
